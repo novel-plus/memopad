@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "push-dir": "^0.4.1"
+    "push-dir": "^0.4.1",
+    "serve": "^13.0.2"
   }
 }
